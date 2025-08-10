@@ -1169,7 +1169,7 @@
 		"zpos"				"5"
 		"wide"				"260"
 		"tall"				"140"
-		"visible"			"1"
+		"visible"			"0"
 		"border"			"NoBorder"
 		"bgcolor_override"	"Transparent"
 		"PaintBackgroundType"	"2"
@@ -2096,7 +2096,7 @@
 		"zpos"					"-1"
 		"wide"					"260"
 		"tall"					"145"
-		"visible"				"1"
+		"visible"				"0"
 		"bgcolor_override"		"TransparentBlack"
 		"PaintBackgroundType"	"2"
 
