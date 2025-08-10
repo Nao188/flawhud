@@ -21,7 +21,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CountdownLabel"
-		"font"			"FontBold22"
+		"font"			"FontRegular22"
 		"xpos"			"cs-0.5"
 		"ypos"			"cs-0.1"
 		"wide"			"40"
@@ -41,7 +41,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CountdownLabelShadow"
-		"font"			"FontBold22"
+		"font"			"FontRegular22"
 		"xpos"			"cs-0.48"
 		"ypos"			"cs-0.48"
 		"wide"			"40"
@@ -236,7 +236,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"FontBold20"
+			"font"			"FontRegular20"
 			"fgcolor"		"TanLight"
 			"xpos"			"0"
 			"ypos"			"0"

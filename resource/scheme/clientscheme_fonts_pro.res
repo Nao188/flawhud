@@ -140,7 +140,26 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+		"FontRegular50"
+		{
+			"1"
+			{
+				"name"	"Code Pro LC"
+				"tall"	"50"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
+		"FontRegular22"
+		{
+			"1"
+			{
+				"name"	"Code Pro LC"
+				"tall"	"22"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
 		"FontRegular20"
 		{
 			"1"
@@ -149,6 +168,16 @@ Scheme
 				"tall"			"20"
 				"additive"		"0"
 				"antialias" 	"1"
+			}
+		}
+		"FontRegular18"
+		{
+			"1"
+			{
+				"name"			"Code Pro LC"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias"		"1"
 			}
 		}
 		"FontRegular15"
@@ -234,11 +263,37 @@ Scheme
 				"blur"			"3"
 			}
 		}
+		"ScanlineShadowReg"
+		{
+			"1"
+			{
+				"name"			"Code-Pro-LC"
+				"tall"			"50"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"		"1"
+				"scanlines"		"2"
+				"blur"			"3"
+			}
+		}
 		"ScanlineShadowSmall"
 		{
 			"1"
 			{
 				"name"			"Code Pro Bold"
+				"tall"			"22"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"		"1"
+				"scanlines"		"2"
+				"blur"			"3"
+			}
+		}
+		"ScanlineShadowSmallReg"
+		{
+			"1"
+			{
+				"name"			"Code-Pro-LC"
 				"tall"			"22"
 				"weight"		"0"
 				"additive"		"0"

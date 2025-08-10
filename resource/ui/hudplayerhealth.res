@@ -55,8 +55,8 @@
 		"zpos"			"1"
 		"wide"			"110"
 		"tall"			"43"
-		"visible"		"1"		//Change to "0" to enable health cross
-		"enabled"		"1"
+		"visible"		"0"		//Change to "0" to enable health cross
+		"enabled"		"0"
 		"bgcolor_override"		"BGBlack"
 		"PaintBackgroundType"	"2"
 	}
@@ -89,7 +89,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"FontBold50"	//Change to "HudFontBiggerBold" to enable health cross
+		"font"			"FontRegular50"	//Change to "HudFontBiggerBold" to enable health cross
 
 		"pin_to_sibling"		"HealthBG"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -109,7 +109,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"ScanlineShadow"	//Change to "HudFontBiggerBold" to enable health cross
+		"font"			"ScanlineShadowReg"	//Change to "HudFontBiggerBold" to enable health cross
 		"fgcolor"		"Black"
 
 		"pin_to_sibling"		"PlayerHealthValue"

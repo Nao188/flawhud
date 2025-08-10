@@ -27,8 +27,8 @@
 		"zpos"				"1"
 		"wide"				"110"
 		"tall"				"43"
-		"visible"			"1"
-		"enabled"			"1"
+		"visible"			"0"
+		"enabled"			"0"
 		"bgcolor_override"	"BGBlack"
 		"PaintBackgroundType"	"2"
 	}
@@ -37,7 +37,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInClip"
-		"font"				"FontBold50"
+		"font"				"FontRegular50"
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"5"
@@ -53,7 +53,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInClipShadow"
-		"font"				"ScanlineShadow"
+		"font"				"ScanlineShadowReg"
 		"fgcolor"			"Black"
 		"xpos"				"-2"
 		"ypos"				"-2"
@@ -71,7 +71,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInReserve"
-		"font"				"FontBold22"
+		"font"				"FontRegular22"
 		"xpos"				"5"
 		"ypos"				"0"
 		"zpos"				"7"
@@ -89,7 +89,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInReserveShadow"
-		"font"				"ScanlineShadowSmall"
+		"font"				"ScanlineShadowSmallReg"
 		"fgcolor"			"Black"
 		"xpos"				"-2"
 		"ypos"				"-2"
@@ -107,7 +107,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoNoClip"
-		"font"				"FontBold50"
+		"font"				"FontRegular50"
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"5"
@@ -123,7 +123,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoNoClipShadow"
-		"font"				"ScanlineShadow"
+		"font"				"ScanlineShadowReg"
 		"fgcolor"			"Black"
 		"xpos"				"-2"
 		"ypos"				"-2"
