@@ -65,7 +65,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"9999"	//Change to "23" to enable health cross
+		"xpos"			"23"	//Change to "23" to enable health cross
 		"ypos"			"12"
 		"zpos"			"3"
 		"wide"			"65"
@@ -74,6 +74,7 @@
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"
+		"alpha"			"80"
 	}
 
 	"PlayerHealthValue"
